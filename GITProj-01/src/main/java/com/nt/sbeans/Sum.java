@@ -4,7 +4,7 @@ public class Sum
 {
    public int sum(int x,int y)
    {
-	   System.err.println("same code");
+	   System.out.println("hello");
 	   return x+y;
    }
 }
